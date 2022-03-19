@@ -1,2 +1,2 @@
 # B.C.A
-Background Changer Program
+Background Changer App
